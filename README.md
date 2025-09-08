@@ -8,7 +8,7 @@ The hackathon challenges are presented through interactive Jupyter Notebooks tha
 
 ## About NERC and CEDA
 
-**NERC** (Natural Environment Research Council) is the UK's leading funder of independent research, training and innovation in environmental science. The **CEDA Archive** is NERC's primary data centre for atmospheric and earth observation research, housing petabytes of environmental data including weather observations, climate models, satellite data, and more.
+**NERC** (Natural Environment Research Council) is the UK's leading funder of independent research, training and innovation in environmental science. The **CEDA Archive** is NERC's primary data centre for atmospheric and earth observation research, housing petabytes of environmental data including weather observations, climate models, satellite data, and more. See https://data.ceda.ac.uk
 
 ## Hackathon Focus
 
