@@ -35,11 +35,12 @@ This notebook focuses on **ECMWF (European Centre for Medium-Range Weather Forec
 - Time-series analysis and statistical processing
 
 **Challenges Include:**
-- Loading ECMWF data in NetCDF format
-- Converting temperature units from Fahrenheit to Celsius
-- Plotting global temperature data
-- Focusing analysis on UK and Bedfordshire regions
-- Creating animated visualisations of temperature data
+- **Load and Process ECMWF Data**: Working with NetCDF data structure and metadata
+- **Temperature Unit Conversion**: Converting from Kelvin to Celsius with proper attributes
+- **Global Temperature Visualisation**: Creating informative temperature maps and plots
+- **UK Regional Analysis**: Focusing on UK-wide patterns and time-series analysis
+- **Bedfordshire Local Analysis**: Detailed local climate pattern examination
+- **Data Animation and Visualisation**: Creating engaging animated temperature visualisations
 
 ### 2. NERC_DG_Hackathon_MIDAS.ipynb
 
@@ -63,7 +64,7 @@ This notebook focuses on **MIDAS (Met Office Integrated Data Archive System) dat
 
 1. **Access JASMIN**: The notebooks are designed to run on the JASMIN HPC system with direct access to CEDA data
 2. **Choose Your Focus**: Select either the ECMWF or MIDAS notebook based on your interests
-3. **Follow the Challenges**: Each notebook contains structured challenges with starter code and success criteria
+3. **Follow the Challenges**: Each notebook contains 5-6 structured challenges with background context, clear tasks, and success criteria
 4. **Explore the Data**: Use the provided geographical coordinates to focus on UK-wide or Bedfordshire-specific analysis
 
 ## Useful Resources
