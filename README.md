@@ -6,9 +6,15 @@ This repository contains materials for the **NERC Digital Gathering Hackathon 20
 
 The hackathon challenges are presented through interactive Jupyter Notebooks that run on the **JASMIN HPC** (High Performance Computing) system operated by NERC. JASMIN provides powerful computational resources and direct access to the extensive CEDA data archive, enabling participants to work with large-scale environmental datasets efficiently.
 
+## Hackathon ethos and intention
+
+The hackathon is not a competitive exercise. Instead we are keen to help show you the wealth of data available in the extraordinary CEDA data archives of NERC and to run through some realistic 'exploratory data analysis' with some of the key datasets. Some of the notebooks require editing to run, and some may seem complete, but there is always more to add. Furthermore, in writing and running the code you will be using the notebook server running in JASMIN, NERC's HPC system - and that has direct access to the CEDA data files. A powerful combination. The hackathon will therefore also show you how to use JASMIN to run code.
+
+Staff from JASMIN and CEDA will be on-hand to help you with access to the system and have prepared a series of training accounts for the day for all delegates. They advise that it is best to use these accounts for the event even if you already have your own JASMIN and CEDA accounts - really just to save time. But they will be able to help provide advice on next steps if you like what you see. We hope you enjoy the event!
+
 ## About NERC and CEDA
 
-**NERC** (Natural Environment Research Council) is the UK's leading funder of independent research, training and innovation in environmental science. The **CEDA Archive** is NERC's primary data centre for atmospheric and earth observation research, housing petabytes of environmental data including weather observations, climate models, satellite data, and more. See https://data.ceda.ac.uk
+**NERC** (Natural Environment Research Council) is the UK's leading funder of independent research, training and innovation in environmental science, see https://www.ukri.org/councils/nerc/. The **CEDA Archive** is NERC's primary data centre for atmospheric and earth observation research, housing petabytes of environmental data including weather observations, climate models, satellite data, and more. See https://data.ceda.ac.uk
 
 ## Hackathon Focus
 
@@ -20,6 +26,8 @@ The hackathon encourages exploration of three key environmental datasets:
 - **Soils and Land Cover**: Focus on soils and land cover data with challenges for working with spatial environmental datasets for Bedfordshire, in CSV format.
 
 Participants can choose to focus their analysis on either the UK as a whole or specifically on Bedfordshire, where the hackathon is located.
+
+We hope you will have time to run and review all four notebooks, but if not you can complete them later.
 
 ## Notebook Files
 
@@ -81,7 +89,7 @@ This notebook focuses on **HadUK-Grid data** and provides challenges for working
 
 ### 4. NERC_DG_Hackathon_SoilsAndLandCover.ipynb
 
-This notebook focuses on **soils and land cover data** and provides challenges for working with spatial environmental datasets for Bedfordshire.
+This notebook focuses on **soils and land cover data** and provides challenges for working with spatial environmental datasets for Bedfordshire. The soil data comes from Cranfield University's LandIS Land Information System, see https://www.landis.org.uk.
 
 **Key Features:**
 - Loading and processing CSV datasets from external URLs
