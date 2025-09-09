@@ -14,9 +14,10 @@ The hackathon challenges are presented through interactive Jupyter Notebooks tha
 
 The hackathon encourages exploration of three key environmental datasets:
 
-- **MIDAS** (Met Office Integrated Data Archive System): Raw weather observations from land and marine surface stations in CSV format
-- **ECMWF** (European Centre for Medium-Range Weather Forecasts): Global weather forecasts and climate reanalyses in NetCDF format  
-- **HadUK-Grid**: Gridded climate variables for the UK derived from interpolated land surface observations in NetCDF format
+- **MIDAS** (Met Office Integrated Data Archive System): Raw weather observations from land and marine surface stations, in CSV format.
+- **ECMWF** (European Centre for Medium-Range Weather Forecasts): Global weather forecasts and climate reanalyses, in NetCDF format.  
+- **HadUK-Grid**: Gridded climate variables for the UK derived from interpolated land surface observations, in NetCDF format.
+- **Soils and Land Cover**: Focus on soils and land cover data with challenges for working with spatial environmental datasets for Bedfordshire, in CSV format.
 
 Participants can choose to focus their analysis on either the UK as a whole or specifically on Bedfordshire, where the hackathon is located.
 
