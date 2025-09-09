@@ -78,10 +78,28 @@ This notebook focuses on **HadUK-Grid data** and provides challenges for working
 - **Monthly Time Series Analysis**: Building time series for specific river basins
 - **Climate Period Comparison**: Comparing rainfall patterns between 1961-1990 and 1991-2020
 
+### 4. NERC_DG_Hackathon_SoilsAndLandCover.ipynb
+
+This notebook focuses on **soils and land cover data** and provides challenges for working with spatial environmental datasets for Bedfordshire.
+
+**Key Features:**
+- Loading and processing CSV datasets from external URLs
+- Statistical analysis of land cover and soil properties
+- Spatial analysis and grid comparison
+- Intercomparison between different environmental datasets
+- Data visualisation and pattern identification
+
+**Challenges Include:**
+- **Load and Explore Land Cover Data**: Working with CORINE Land Cover data structure and analysis
+- **Load and Explore Soils Data**: Comprehensive analysis of NATMAP Soils dataset
+- **Statistical Analysis and Visualisation**: Creating informative visualisations and identifying patterns
+- **Spatial Analysis and Grid Comparison**: Understanding spatial relationships between datasets
+- **Advanced Intercomparison Analysis**: Identifying correlations and relationships between land cover and soil properties
+
 ## Getting Started
 
 1. **Access JASMIN**: The notebooks are designed to run on the JASMIN HPC system with direct access to CEDA data
-2. **Choose Your Focus**: Select from the ECMWF, MIDAS, or HadUK-Grid notebook based on your interests
+2. **Choose Your Focus**: Select from the ECMWF, MIDAS, HadUK-Grid, or Soils & Land Cover notebook based on your interests
 3. **Follow the Challenges**: Each notebook contains 5-6 structured challenges with background context, clear tasks, and success criteria
 4. **Explore the Data**: Use the provided geographical coordinates to focus on UK-wide or Bedfordshire-specific analysis
 
