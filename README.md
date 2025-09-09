@@ -60,10 +60,28 @@ This notebook focuses on **MIDAS (Met Office Integrated Data Archive System) dat
 - **Renewable Energy Forecasting**: Estimating solar and wind energy potential from weather data
 - **Data Cleaning Showdown**: Building robust data cleaning pipelines for messy environmental datasets
 
+### 3. NERC_DG_hackathon_HadUK.ipynb
+
+This notebook focuses on **HadUK-Grid data** and provides challenges for working with gridded UK climate data and river-basin aggregations.
+
+**Key Features:**
+- Working with NetCDF gridded climate data
+- UK National Grid (OSGB) projection mapping
+- River-basin aggregation analysis
+- Comparative climate analysis across time periods
+- Spatial data visualisation with cartopy
+
+**Challenges Include:**
+- **Open and Inspect HadUK-Grid Data**: Working with NetCDF data structure and metadata
+- **UK Map Plotting**: Creating maps using OSGB projection with cartopy
+- **River-Basin Exploration**: Working with aggregated basin-level climate data
+- **Monthly Time Series Analysis**: Building time series for specific river basins
+- **Climate Period Comparison**: Comparing rainfall patterns between 1961-1990 and 1991-2020
+
 ## Getting Started
 
 1. **Access JASMIN**: The notebooks are designed to run on the JASMIN HPC system with direct access to CEDA data
-2. **Choose Your Focus**: Select either the ECMWF or MIDAS notebook based on your interests
+2. **Choose Your Focus**: Select from the ECMWF, MIDAS, or HadUK-Grid notebook based on your interests
 3. **Follow the Challenges**: Each notebook contains 5-6 structured challenges with background context, clear tasks, and success criteria
 4. **Explore the Data**: Use the provided geographical coordinates to focus on UK-wide or Bedfordshire-specific analysis
 
