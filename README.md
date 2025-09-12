@@ -106,6 +106,8 @@ This notebook focuses on **soils and land cover data** and provides challenges f
 - **Advanced Intercomparison Analysis**: Identifying correlations and relationships between land cover and soil properties
 
 ## Getting Started
+Wait - How do i get a JASMIN account?
+Don't worry, we will provide you a special pre-configured training account on the day of the hackathon with access to all the data! In the meanwhile you could also apply both for a JASMIN account here https://jasmin.ac.uk, and a CEDA account here https://archive.ceda.ac.uk.
 
 1. **Access JASMIN**: The notebooks are designed to run on the JASMIN HPC system with direct access to CEDA data
 2. **Choose Your Focus**: Select from the ECMWF, MIDAS, HadUK-Grid, or Soils & Land Cover notebook based on your interests
