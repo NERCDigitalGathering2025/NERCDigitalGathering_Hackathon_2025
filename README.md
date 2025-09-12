@@ -1,3 +1,5 @@
+![NERC Logo](assets/ukri-nerc-square-logo.png.jpg)
+
 # NERC Digital Gathering Hackathon 2025
 
 ## Overview
@@ -107,6 +109,7 @@ This notebook focuses on **soils and land cover data** and provides challenges f
 
 ## Getting Started
 Wait - How do i get a JASMIN account?
+
 Don't worry, we will provide you a special pre-configured training account on the day of the hackathon with access to all the data! In the meanwhile you could also apply both for a JASMIN account here https://jasmin.ac.uk, and a CEDA account here https://archive.ceda.ac.uk.
 
 1. **Access JASMIN**: The notebooks are designed to run on the JASMIN HPC system with direct access to CEDA data
