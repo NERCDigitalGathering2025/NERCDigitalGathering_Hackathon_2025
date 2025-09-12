@@ -1,4 +1,5 @@
 # NERC Digital Gathering Hackathon 2025
+
 ![NERC Logo](assets/ukri-nerc-square-logo.png)
 
 ## Overview
@@ -15,7 +16,7 @@ Staff from JASMIN and CEDA will be on-hand to help you with access to the system
 
 ## About NERC and CEDA
 
-**NERC** (Natural Environment Research Council) is the UK's leading funder of independent research, training and innovation in environmental science, see https://www.ukri.org/councils/nerc/. The **CEDA Archive** is NERC's primary data centre for atmospheric and earth observation research, housing petabytes of environmental data including weather observations, climate models, satellite data, and more. See https://data.ceda.ac.uk
+**NERC** (Natural Environment Research Council) is the UK's leading funder of independent research, training and innovation in environmental science, see <https://www.ukri.org/councils/nerc/>. The **CEDA Archive** is NERC's primary data centre for atmospheric and earth observation research, housing petabytes of environmental data including weather observations, climate models, satellite data, and more. See <https://data.ceda.ac.uk>
 
 ## Hackathon Focus
 
@@ -37,6 +38,7 @@ We hope you will have time to run and review all four notebooks, but if not you 
 This notebook focuses on **ECMWF (European Centre for Medium-Range Weather Forecasts) data** and provides challenges for working with global weather and climate reanalysis data.
 
 **Key Features:**
+
 - Loading and processing NetCDF data from the CEDA archive
 - Temperature unit conversion (Kelvin to Celsius)
 - Global and regional data visualisation
@@ -45,6 +47,7 @@ This notebook focuses on **ECMWF (European Centre for Medium-Range Weather Forec
 - Time-series analysis and statistical processing
 
 **Challenges Include:**
+
 - **Load and Process ECMWF Data**: Working with NetCDF data structure and metadata
 - **Temperature Unit Conversion**: Converting from Kelvin to Celsius with proper attributes
 - **Global Temperature Visualisation**: Creating informative temperature maps and plots
@@ -57,6 +60,7 @@ This notebook focuses on **ECMWF (European Centre for Medium-Range Weather Forec
 This notebook focuses on **MIDAS (Met Office Integrated Data Archive System) data** and provides challenges for working with station-based weather observations.
 
 **Key Features:**
+
 - Processing CSV-format weather station data
 - Time-series analysis and trend detection
 - Statistical analysis of temperature patterns
@@ -64,6 +68,7 @@ This notebook focuses on **MIDAS (Met Office Integrated Data Archive System) dat
 - Multiple challenge scenarios for different applications
 
 **Challenges Include:**
+
 - **Weather Storytelling Dashboard**: Creating engaging visualisations and narratives from weather data
 - **Rainfall Prediction**: Using machine learning to predict rainfall from historical weather data
 - **Flood Risk Index**: Combining rainfall, soil moisture, and other factors to assess flood risk
@@ -75,6 +80,7 @@ This notebook focuses on **MIDAS (Met Office Integrated Data Archive System) dat
 This notebook focuses on **HadUK-Grid data** and provides challenges for working with gridded UK climate data and river-basin aggregations.
 
 **Key Features:**
+
 - Working with NetCDF gridded climate data
 - UK National Grid (OSGB) projection mapping
 - River-basin aggregation analysis
@@ -82,6 +88,7 @@ This notebook focuses on **HadUK-Grid data** and provides challenges for working
 - Spatial data visualisation with cartopy
 
 **Challenges Include:**
+
 - **Open and Inspect HadUK-Grid Data**: Working with NetCDF data structure and metadata
 - **UK Map Plotting**: Creating maps using OSGB projection with cartopy
 - **River-Basin Exploration**: Working with aggregated basin-level climate data
@@ -90,9 +97,10 @@ This notebook focuses on **HadUK-Grid data** and provides challenges for working
 
 ### 4. NERC_DG_Hackathon_SoilsAndLandCover.ipynb
 
-This notebook focuses on **soils and land cover data** and provides challenges for working with spatial environmental datasets for Bedfordshire. The soil data comes from Cranfield University's LandIS Land Information System, see https://www.landis.org.uk.
+This notebook focuses on **soils and land cover data** and provides challenges for working with spatial environmental datasets for Bedfordshire. The soil data comes from Cranfield University's LandIS Land Information System, see <https://www.landis.org.uk>.
 
 **Key Features:**
+
 - Loading and processing CSV datasets from external URLs
 - Statistical analysis of land cover and soil properties
 - Spatial analysis and grid comparison
@@ -100,6 +108,7 @@ This notebook focuses on **soils and land cover data** and provides challenges f
 - Data visualisation and pattern identification
 
 **Challenges Include:**
+
 - **Load and Explore Land Cover Data**: Working with CORINE Land Cover data structure and analysis
 - **Load and Explore Soils Data**: Comprehensive analysis of NATMAP Soils dataset
 - **Statistical Analysis and Visualisation**: Creating informative visualisations and identifying patterns
@@ -107,9 +116,10 @@ This notebook focuses on **soils and land cover data** and provides challenges f
 - **Advanced Intercomparison Analysis**: Identifying correlations and relationships between land cover and soil properties
 
 ## Getting Started
+
 Wait - How do i get a JASMIN account?
 
-Don't worry, we will provide you a special pre-configured training account on the day of the hackathon with access to all the data! In the meanwhile you could also apply both for a JASMIN account here https://jasmin.ac.uk, and a CEDA account here https://archive.ceda.ac.uk.
+Don't worry, we will provide you a special pre-configured training account on the day of the hackathon with access to all the data! In the meanwhile you could also apply both for a JASMIN account here <https://jasmin.ac.uk>, and a CEDA account here <https://archive.ceda.ac.uk>.
 
 1. **Access JASMIN**: The notebooks are designed to run on the JASMIN HPC system with direct access to CEDA data
 2. **Choose Your Focus**: Select from the ECMWF, MIDAS, HadUK-Grid, or Soils & Land Cover notebook based on your interests
