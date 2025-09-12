@@ -1,6 +1,5 @@
-![NERC Logo](assets/ukri-nerc-square-logo.png.jpg)
-
 # NERC Digital Gathering Hackathon 2025
+![NERC Logo](assets/ukri-nerc-square-logo.png)
 
 ## Overview
 
