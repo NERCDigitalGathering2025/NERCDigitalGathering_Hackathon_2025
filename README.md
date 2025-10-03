@@ -26,8 +26,9 @@ The hackathon encourages exploration of three key environmental datasets:
 - **ECMWF** (European Centre for Medium-Range Weather Forecasts): Global weather forecasts and climate reanalyses, in NetCDF format.  
 - **HadUK-Grid**: Gridded climate variables for the UK derived from interpolated land surface observations, in NetCDF format.
 - **Soils and Land Cover**: Focus on soils and land cover data with challenges for working with spatial environmental datasets for Bedfordshire, in CSV format.
+- **Stretch activities**: For some delegates, the chance to stretch knowledge and skills a little will be welcome. A fifth notebook then is provided that sets out a few such stretching exercises. If you have time, pick one of these and dive deeper into the data.
 
-Participants can choose to focus their analysis on either the UK as a whole or specifically on Bedfordshire, where the hackathon is located.
+Participants can choose to focus their analysis on either the UK as a whole or specifically on Bedfordshire, where the hackathon is located. See below for the geographical coordinates of each of these.
 
 We hope you will have time to run and review all four main notebooks, and explore the stretch challenges for advanced participants.
 
