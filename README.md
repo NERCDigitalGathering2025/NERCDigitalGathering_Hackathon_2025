@@ -29,7 +29,7 @@ The hackathon encourages exploration of three key environmental datasets:
 
 Participants can choose to focus their analysis on either the UK as a whole or specifically on Bedfordshire, where the hackathon is located.
 
-We hope you will have time to run and review all four notebooks, but if not you can complete them later.
+We hope you will have time to run and review all four main notebooks, and explore the stretch challenges for advanced participants.
 
 ## Notebook Files
 
@@ -115,6 +115,28 @@ This notebook focuses on **soils and land cover data** and provides challenges f
 - **Spatial Analysis and Grid Comparison**: Understanding spatial relationships between datasets
 - **Advanced Intercomparison Analysis**: Identifying correlations and relationships between land cover and soil properties
 
+### 5. NERC_DG_Hackathon_Stretch_Challenges .ipynb
+
+This notebook contains **advanced challenges** for confident participants who want to explore cross-dataset insights, regional analysis, and advanced environmental data science techniques.
+
+**Key Features:**
+
+- Cross-dataset integration and analysis
+- Advanced spatial and temporal analysis techniques
+- Interactive visualisation and animation development
+- Statistical analysis and data quality assessment
+- Environmental data science best practices
+
+**Challenges Include:**
+
+- **Rainfall Consistency: Gridded vs Station Data**: Comparing MIDAS station data with HadUK-Grid rainfall
+- **Reanalysis Concordance Analysis**: Comparing ECMWF ERA5 with HadUK-Grid rainfall
+- **Spatial Scale Sensitivity Analysis**: Examining resolution effects on climate data representation
+- **Regional Climate Time Series Analysis**: Bedfordshire-focused climate trend analysis
+- **Extreme Events and Spatial Footprints**: Analysing spatial characteristics of extreme weather events
+- **Interactive Visualisation and Animation**: Creating engaging data presentations
+- **Cross-Dataset Integration Challenge**: Combining meteorological data with soils and land cover information
+
 ## Getting Started
 
 Wait - How do i get a JASMIN account?
@@ -124,7 +146,8 @@ Don't worry, we will provide you a special pre-configured training account on th
 1. **Access JASMIN**: The notebooks are designed to run on the JASMIN HPC system with direct access to CEDA data
 2. **Choose Your Focus**: Select from the ECMWF, MIDAS, HadUK-Grid, or Soils & Land Cover notebook based on your interests
 3. **Follow the Challenges**: Each notebook contains 5-6 structured challenges with background context, clear tasks, and success criteria
-4. **Explore the Data**: Use the provided geographical coordinates to focus on UK-wide or Bedfordshire-specific analysis
+4. **Explore Advanced Challenges**: For confident participants, tackle the stretch challenges that integrate multiple datasets and advanced techniques
+5. **Explore the Data**: Use the provided geographical coordinates to focus on UK-wide or Bedfordshire-specific analysis
 
 ## Useful Resources
 
